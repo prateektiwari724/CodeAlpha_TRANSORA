@@ -30,15 +30,6 @@ This project demonstrates:
 
 ---
 
-# Clone Repository
-
-```bash
-git clone https://github.com/prateektiwari724/CodeAlpha_TRANSORA.git
-cd CodeAlpha_TRANSORA
-```
-
----
-
 # Features
 
 ## Translation Features
