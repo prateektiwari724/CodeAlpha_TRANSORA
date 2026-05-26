@@ -280,4 +280,4 @@ This project bridges the gap between AI services and user-friendly real-world ap
 
 ## Prateek Tiwari
 
-AI/ML Enthusiast | Software Developer | Full Stack Learner
+AI/ML Enthusiast 
