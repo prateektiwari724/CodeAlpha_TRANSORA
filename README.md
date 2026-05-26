@@ -20,6 +20,7 @@ TRANSORA is a modern AI-powered multilingual language translation platform built
 The application allows users to instantly translate text across 100+ languages through a clean and responsive web interface with real-time translation support, auto language detection, copy/download functionality, and a modern UI experience.
 
 This project demonstrates:
+
 - Full-stack AI web application development
 - Frontend + backend integration
 - Real-time API communication
@@ -29,9 +30,19 @@ This project demonstrates:
 
 ---
 
+# Clone Repository
+
+```bash
+git clone https://github.com/prateektiwari724/CodeAlpha_TRANSORA.git
+cd CodeAlpha_TRANSORA
+```
+
+---
+
 # Features
 
 ## Translation Features
+
 - Translate text across 100+ languages
 - Auto language detection
 - Real-time AI-powered translation
@@ -42,6 +53,7 @@ This project demonstrates:
 ---
 
 ## UI/UX Features
+
 - Modern premium UI
 - Responsive layout
 - Gradient theme design
@@ -53,6 +65,7 @@ This project demonstrates:
 ---
 
 ## Functional Features
+
 - Accurate live character counter
 - Copy translated text
 - Download translated output
@@ -129,7 +142,7 @@ pyperclip
 # Project Structure
 
 ```bash
-TRANSORA/
+CodeAlpha_TRANSORA/
 │
 ├── app.py
 ├── requirements.txt
@@ -142,9 +155,11 @@ TRANSORA/
 # Live Deployment
 
 ## Live App
+
 https://your-streamlit-app-link.streamlit.app
 
 ### Note
+
 This application is hosted on the free tier of Streamlit Community Cloud.
 
 If the app remains inactive for approximately 13–15 minutes, Streamlit automatically puts it to sleep.
@@ -162,6 +177,7 @@ Simply click that button and wait a few seconds for the application to restart.
 # UI Preview
 
 Main Interface Includes:
+
 - Input Text Box
 - Translated Output Box
 - Language Selection
@@ -188,6 +204,7 @@ Main Interface Includes:
 # Future Improvements
 
 ## Planned Upgrades
+
 - Voice Translation
 - PDF/DOCX Translation
 - OCR Image Translation
@@ -272,4 +289,4 @@ This project bridges the gap between AI services and user-friendly real-world ap
 
 ## Prateek Tiwari
 
-AI/ML Enthusiast
+AI/ML Enthusiast | Software Developer | Full Stack Learner
